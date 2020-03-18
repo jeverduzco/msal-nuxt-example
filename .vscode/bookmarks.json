@@ -1,0 +1,32 @@
+[
+	{
+		"path": "$ROOTPATH$\\pages\\auth.vue",
+		"bookmarks": [
+			{
+				"line": 56,
+				"column": 31,
+				"label": ""
+			},
+			{
+				"line": 60,
+				"column": 50,
+				"label": ""
+			},
+			{
+				"line": 66,
+				"column": 33,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\pages\\blog\\_url.vue",
+		"bookmarks": [
+			{
+				"line": 68,
+				"column": 38,
+				"label": ""
+			}
+		]
+	}
+]
