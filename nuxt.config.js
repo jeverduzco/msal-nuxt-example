@@ -98,7 +98,6 @@ module.exports = {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     '@nuxtjs/robots',
-    'applicationinsightsfornuxt',
     [
       'nuxt-i18n',
       {
@@ -122,9 +121,6 @@ module.exports = {
       }
     ]
   ],
-  appInsights: {
-    instrumentationKey: '69897492-e04b-46ce-8c64-898b8f648457'
-  },
   /*
   ** Axios module configuration
   */

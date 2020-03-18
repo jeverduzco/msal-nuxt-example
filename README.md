@@ -1,6 +1,6 @@
-# jvsoyblog
+# Example app
 
-> Blog de JesusVerduzco.Soy
+> Msal.js and nuxt.js
 
 ## Build Setup
 
