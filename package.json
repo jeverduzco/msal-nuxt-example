@@ -20,7 +20,7 @@
     "@nuxtjs/axios": "^5.9.5",
     "@nuxtjs/robots": "^2.4.2",
     "applicationinsightsfornuxt": "^1.4.0",
-    "browserslist": "^4.8.7",
+    "browserslist": "^4.16.5",
     "cross-env": "^5.2.1",
     "express": "^4.17.1",
     "msal": "^1.2.2-beta.2",
